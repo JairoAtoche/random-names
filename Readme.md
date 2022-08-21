@@ -11,7 +11,7 @@ npm i random-namejcas
 # Usage
 
 ```bash
-random-msg
+random-namejcas
 ```
 
 # Contributing
