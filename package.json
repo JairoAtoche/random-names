@@ -14,7 +14,7 @@
   "author": "Jairo Atoche <jairoatoche90098@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-namejcas": "./bin/global.js"
   },
   "preferGlobal": true
 }
