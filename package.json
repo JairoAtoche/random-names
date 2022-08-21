@@ -1,6 +1,6 @@
 {
   "name": "random-namejcas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mensajes aleatorios al ejecutar el comando",
   "main": "src/index.js",
   "scripts": {
